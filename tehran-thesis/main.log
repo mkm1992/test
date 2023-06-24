@@ -1,6 +1,6 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.6.30)  24 JUN 2023 12:55
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.6.30)  24 JUN 2023 19:39
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -2961,49 +2961,6 @@ Underfull \vbox (badness 3039) has occurred while \output is active []
 \openout5 = `main.mw'.
 
  (./main.lof
-
-LaTeX Warning: Citation `etsi' on page ت undefined on input line 2.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page ت undefined on input line 3.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page ت undefined on input line 4.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page ت undefined on input line 5.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page ت undefined on input line 6.
-
-
-LaTeX Warning: Citation `heterogeneous' on page ت undefined on input line 7.
-
-
-LaTeX Warning: Citation `fogComputing' on page ت undefined on input line 8.
-
-
-LaTeX Warning: Citation `vran' on page ت undefined on input line 9.
-
-
-LaTeX Warning: Citation `oranWP' on page ت undefined on input line 10.
-
-
-LaTeX Warning: Citation `NFVArch' on page ت undefined on input line 11.
-
-
-LaTeX Warning: Citation `SDN3' on page ت undefined on input line 12.
-
-
-LaTeX Warning: Citation `NS2' on page ت undefined on input line 13.
-
-
-LaTeX Warning: Citation `lee2018dynamic' on page ت undefined on input line 15.
-
-
-LaTeX Warning: Citation `frdl' on page ت undefined on input line 16.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
@@ -3017,7 +2974,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (0.19255pt too wide) in paragraph at lines 25--25
+Overfull \hbox (0.19255pt too wide) in paragraph at lines 27--27
  [][][] [][][][][][][]\TU/IRLotusICEE.ttf(1)/bx/n/12 نسبت تعداد سرورهای مصرفی ب
 ا روش بهینه به سرورهای مصرفی با استفاده از روش یادگیری[][][][][] 
  []
@@ -3145,9 +3102,6 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 
 
 
-LaTeX Warning: Citation `etsi' on page 2 undefined on input line 53.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
  We now make it that large for the rest of the document.
@@ -3160,15 +3114,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: ./fig/etsi.png Graphic file (type bmp)
 <./fig/etsi.png>
-
-
-LaTeX Warning: Citation `etsi' on page 3 undefined on input line 84.
-
-
-LaTeX Warning: Citation `etsi' on page 3 undefined on input line 84.
-
-
-LaTeX Warning: Citation `Gen' on page 3 undefined on input line 94.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3206,10 +3151,6 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 184.
 
 
-LaTeX Warning: Citation `slawomir20216g' on page 5 undefined on input line 191.
-
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
  We now make it that large for the rest of the document.
@@ -3228,9 +3169,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/bx/n' will be
-
-(Font)              scaled to size 14.4pt on input line 251.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3243,33 +3181,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [6] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/bx/n' will be
 
-\openout5 = `main.mw'.
+(Font)              scaled to size 14.4pt on input line 275.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Citation `checko2015cloud' on page 7 undefined on input line 262
-.
-
-File: ./fig/c11.jpg Graphic file (type bmp)
-<./fig/c11.jpg>
-
-Overfull \hbox (114.92882pt too wide) in paragraph at lines 265--266
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 7 undefined on input line 266
-.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 7 undefined on input line 266
-.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 7 undefined on input line 290
-.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3286,39 +3203,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+File: ./fig/c11.jpg Graphic file (type bmp)
+<./fig/c11.jpg>
 
-\openout5 = `main.mw'.
-
-File: ./fig/c22.jpg Graphic file (type bmp)
-<./fig/c22.jpg>
-
-Overfull \hbox (114.92882pt too wide) in paragraph at lines 297--298
+Overfull \hbox (114.92882pt too wide) in paragraph at lines 289--290
  [][][][][][] 
  []
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 8 undefined on input line 298
-.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 8 undefined on input line 298
-.
-
-File: ./fig/c33.jpg Graphic file (type bmp)
-<./fig/c33.jpg>
-
-Overfull \hbox (114.92882pt too wide) in paragraph at lines 323--324
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 8 undefined on input line 324
-.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 8 undefined on input line 324
-.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3339,9 +3229,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
+File: ./fig/c22.jpg Graphic file (type bmp)
+<./fig/c22.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (114.92882pt too wide) in paragraph at lines 320--321
+ [][][][][][] 
+ []
 
+File: ./fig/c33.jpg Graphic file (type bmp)
+<./fig/c33.jpg>
+
+Overfull \hbox (114.92882pt too wide) in paragraph at lines 346--347
+ [][][][][][] 
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3354,23 +3254,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [9] (./main.mw)
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/bx/n' will be
 
-(Font)              scaled to size 12.0pt on input line 327.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 10 undefined on input line 36
-6.
-
+(Font)              scaled to size 12.0pt on input line 350.
 File: ./fig/CRAN.jpg Graphic file (type bmp)
 <./fig/CRAN.jpg>
-
-LaTeX Warning: Citation `checko2015cloud' on page 10 undefined on input line 37
-0.
-
-
-LaTeX Warning: Citation `checko2015cloud' on page 10 undefined on input line 37
-0.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3387,29 +3283,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-
-
-LaTeX Warning: Citation `fogComputing' on page 11 undefined on input line 376.
-
-
-LaTeX Warning: Citation `heterogeneous' on page 11 undefined on input line 376.
-
-
-
-LaTeX Warning: Citation `fogEdge' on page 11 undefined on input line 376.
-
 File: ./fig/hc.jpg Graphic file (type bmp)
 <./fig/hc.jpg>
 
-LaTeX Warning: Citation `heterogeneous' on page 11 undefined on input line 380.
-
-
-
-LaTeX Warning: Citation `heterogeneous' on page 11 undefined on input line 380.
-
-
-
-Overfull \hbox (8.77539pt too wide) in paragraph at lines 376--383
+Overfull \hbox (8.77539pt too wide) in paragraph at lines 399--406
 [][]\TU/IRLotusICEE.ttf(1)/bx/n/12 برای غلبه بر چالشهای شبکه‌های []\TU/Liberati
 onSerif-Regular.ttf(0)/m/n/12 C-RAN[] \TU/IRLotusICEE.ttf(1)/bx/n/12 با محدودیت
 های []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 fronthaul[]\TU/IRLotusICEE.ttf(
@@ -3441,20 +3318,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-LaTeX Warning: Citation `fogComputing' on page 13 undefined on input line 398.
-
-
-LaTeX Warning: Citation `fogEdge' on page 13 undefined on input line 398.
-
-File: ./fig/fr.jpg Graphic file (type bmp)
-<./fig/fr.jpg>
-
-LaTeX Warning: Citation `fogComputing' on page 13 undefined on input line 403.
-
-
-LaTeX Warning: Citation `fogComputing' on page 13 undefined on input line 403.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
  We now make it that large for the rest of the document.
@@ -3465,16 +3328,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [13] (./main.mw)
 \openout5 = `main.mw'.
 
-
-
-LaTeX Warning: Citation `xran' on page 14 undefined on input line 432.
-
-
-LaTeX Warning: Citation `xran1' on page 14 undefined on input line 433.
-
-
-Underfull \vbox (badness 1661) has occurred while \output is active []
-
+File: ./fig/fr.jpg Graphic file (type bmp)
+<./fig/fr.jpg>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3503,28 +3358,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-
-
-LaTeX Warning: Citation `vran' on page 16 undefined on input line 486.
-
 File: ./fig/vran.png Graphic file (type bmp)
 <./fig/vran.png>
-
-LaTeX Warning: Citation `vran' on page 16 undefined on input line 490.
-
-
-LaTeX Warning: Citation `vran' on page 16 undefined on input line 490.
-
-File: ./fig/oran1.png Graphic file (type bmp)
-<./fig/oran1.png>
-
-LaTeX Warning: Citation `oranWP' on page 16 undefined on input line 502.
-
-
-LaTeX Warning: Citation `oranWP' on page 16 undefined on input line 502.
-
-
-LaTeX Warning: Citation `oranWP' on page 16 undefined on input line 505.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3541,6 +3376,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
+File: ./fig/oran1.png Graphic file (type bmp)
+<./fig/oran1.png>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3583,13 +3420,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-LaTeX Warning: Citation `NFV' on page 20 undefined on input line 680.
-
-
-Underfull \vbox (badness 1648) has occurred while \output is active []
-
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
  We now make it that large for the rest of the document.
@@ -3600,6 +3430,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [20] (./main.mw)
 \openout5 = `main.mw'.
 
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 685.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 685.
+File: img/oran_last_new.pdf Graphic file (type pdf)
+<use img/oran_last_new.pdf>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3616,17 +3452,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-File: ./fig/NFV.png Graphic file (type bmp)
-<./fig/NFV.png>
-
-
-LaTeX Warning: Citation `NFVArch' on page 22 undefined on input line 706.
-
-
-LaTeX Warning: Citation `NFVArch' on page 22 undefined on input line 706.
-
-
-LaTeX Warning: Citation `NFVArch' on page 22 undefined on input line 709.
+File: img/ocloud_new.pdf Graphic file (type pdf)
+<use img/ocloud_new.pdf>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3651,23 +3478,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [23] (./main.mw)
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
 
-LaTeX Warning: Citation `SDN1' on page 24 undefined on input line 767.
-
-
-LaTeX Warning: Citation `SDN2' on page 24 undefined on input line 777.
-
-File: ./fig/SDN.png Graphic file (type bmp)
-<./fig/SDN.png>
-
-LaTeX Warning: Citation `SDN3' on page 24 undefined on input line 785.
-
-
-LaTeX Warning: Citation `SDN3' on page 24 undefined on input line 785.
-
-
-LaTeX Warning: Citation `SDN3' on page 24 undefined on input line 788.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3679,25 +3493,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [24] (./main.mw)
 \openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `gudipati2013softran' on page 25 undefined on input lin
-e 812.
-
-
-LaTeX Warning: Citation `yu2017hsdran' on page 25 undefined on input line 812.
-
-
-Underfull \vbox (badness 7869) has occurred while \output is active []
 
 
 
@@ -3712,16 +3507,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \openout5 = `main.mw'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `NS1' on page 26 undefined on input line 827.
-
-File: ./fig/NS.png Graphic file (type bmp)
-<./fig/NS.png>
-
-LaTeX Warning: Citation `NS2' on page 26 undefined on input line 832.
-
-
-LaTeX Warning: Citation `NS2' on page 26 undefined on input line 832.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3734,17 +3521,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [26] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `NS2' on page 27 undefined on input line 835.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3757,6 +3533,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [27] (./main.mw)
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: ./fig/NFV.png Graphic file (type bmp)
+<./fig/NFV.png>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3768,26 +3550,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [28] (./main.mw)
 \openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `chu1998genetic' on page 29 undefined on input line 875
-.
-
-
-LaTeX Warning: Citation `berkey1987two' on page 29 undefined on input line 900.
-
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -3801,13 +3563,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [29] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+File: ./fig/SDN.png Graphic file (type bmp)
+<./fig/SDN.png>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3828,7 +3585,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-)
+
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
@@ -3838,6 +3598,114 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \openout5 = `main.mw'.
 
 [31] (./main.mw)
+\openout5 = `main.mw'.
+
+File: ./fig/NS.png Graphic file (type bmp)
+<./fig/NS.png>
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[32] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[33] (./main.mw)
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[34] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[35] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[36] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[37] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3853,7 +3721,7 @@ Underfull \vbox (badness 6559) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [32
+ [38
 
 
 
@@ -3873,28 +3741,12 @@ Underfull \vbox (badness 6559) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-
-
-LaTeX Warning: Citation `cranInt' on page 33 undefined on input line 21.
-
-
-LaTeX Warning: Citation `lee2018dynamic' on page 33 undefined on input line 24.
-
-
 File: ./fig/dynamicNS.png Graphic file (type bmp)
 <./fig/dynamicNS.png>
 
 Overfull \hbox (30.67825pt too wide) in paragraph at lines 34--35
  [][][][][][] 
  []
-
-
-LaTeX Warning: Citation `lee2018dynamic' on page 33 undefined on input line 35.
-
-
-
-LaTeX Warning: Citation `lee2018dynamic' on page 33 undefined on input line 35.
-
 
 
 Underfull \vbox (badness 1221) has occurred while \output is active []
@@ -3908,237 +3760,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-[33] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `larsen2018fronthaul' on page 34 undefined on input lin
-e 52.
-
-
-LaTeX Warning: Citation `costanzo2018network' on page 34 undefined on input lin
-e 52.
-
-
-LaTeX Warning: Citation `larsen2018fronthaul' on page 34 undefined on input lin
-e 57.
-
-
-LaTeX Warning: Citation `fran' on page 34 undefined on input line 62.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[34] (./main.mw)
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `ranSlice' on page 35 undefined on input line 71.
-
-
-LaTeX Warning: Citation `ranSlice1' on page 35 undefined on input line 71.
-
-
-LaTeX Warning: Citation `ranslice2' on page 35 undefined on input line 78.
-
-
-LaTeX Warning: Citation `onet' on page 35 undefined on input line 87.
-
-
-LaTeX Warning: Citation `li2019latency' on page 35 undefined on input line 96.
-
-
-LaTeX Warning: Citation `vnf1' on page 35 undefined on input line 101.
-
-
-LaTeX Warning: Citation `coreSlice' on page 35 undefined on input line 101.
-
-
-LaTeX Warning: Citation `vnf1' on page 35 undefined on input line 104.
-
-
-LaTeX Warning: Citation `coreSlice' on page 35 undefined on input line 107.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[35] (./main.mw)
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `frdl' on page 36 undefined on input line 117.
-
-
-LaTeX Warning: Citation `luong2018novel' on page 36 undefined on input line 117
-.
-
-
-LaTeX Warning: Citation `luong2018novel1' on page 36 undefined on input line 11
-7.
-
-
-LaTeX Warning: Citation `guo2016exploiting' on page 36 undefined on input line 
-117.
-
-File: ./fig/Delay.png Graphic file (type bmp)
-<./fig/Delay.png>
-
-LaTeX Warning: Citation `frdl' on page 36 undefined on input line 121.
-
-
-LaTeX Warning: Citation `frdl' on page 36 undefined on input line 121.
-
-
-LaTeX Warning: Citation `oranpaper' on page 36 undefined on input line 133.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[36] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `oranInt' on page 37 undefined on input line 137.
-
-
-LaTeX Warning: Citation `c2o' on page 37 undefined on input line 144.
-
-
-LaTeX Warning: Citation `sree2019open' on page 37 undefined on input line 149.
-
-
-LaTeX Warning: Citation `kawahara2019ran' on page 37 undefined on input line 14
-9.
-
-
-LaTeX Warning: Citation `wang2016online' on page 37 undefined on input line 171
-.
-
-
-LaTeX Warning: Citation `jia2018online' on page 37 undefined on input line 171.
-
-
-
-LaTeX Warning: Citation `luo2020online' on page 37 undefined on input line 171.
-
-
-
-LaTeX Warning: Citation `jia2018online' on page 37 undefined on input line 177.
-
-
-
-LaTeX Warning: Citation `luo2020online' on page 37 undefined on input line 177.
-
-
-
-LaTeX Warning: Citation `luo2020online' on page 37 undefined on input line 180.
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[37] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `cziva2018dynamic' on page 38 undefined on input line 1
-84.
-
-
-LaTeX Warning: Citation `pei2019optimal' on page 38 undefined on input line 188
-.
-
-
-LaTeX Warning: Citation `ren2020joint' on page 38 undefined on input line 194.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[38] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `lee2018dynamic' on page 39 undefined on input line 216
-.
-
-
-LaTeX Warning: Citation `sciancalepore2017mobile' on page 39 undefined on input
- line 222.
-
-
-LaTeX Warning: Citation `wang2017joint' on page 39 undefined on input line 231.
-
-
-
-LaTeX Warning: Citation `de2020optimal' on page 39 undefined on input line 249.
-
-
-File: ./fig/rl.png Graphic file (type bmp)
-<./fig/rl.png>
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
 [39] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4157,25 +3779,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [40] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `gan1' on page 41 undefined on input line 287.
-
-
-LaTeX Warning: Citation `gan2' on page 41 undefined on input line 287.
-
-File: ./fig/gan.png Graphic file (type bmp)
-<./fig/gan.png>
-
-LaTeX Warning: Citation `li2020end' on page 41 undefined on input line 303.
-
-
-Underfull \vbox (badness 1728) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4188,7 +3791,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [41] (./main.mw)
 \openout5 = `main.mw'.
 
-)
+File: ./fig/Delay.png Graphic file (type bmp)
+<./fig/Delay.png>
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
@@ -4204,6 +3809,113 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[43] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[44] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: ./fig/rl.png Graphic file (type bmp)
+<./fig/rl.png>
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[45] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[46] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: ./fig/gan.png Graphic file (type bmp)
+<./fig/gan.png>
+
+Underfull \vbox (badness 1728) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[47] (./main.mw)
+\openout5 = `main.mw'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[48] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout2 = `./tex/chapter3.aux'.
 
  (./tex/chapter3.tex
@@ -4213,7 +3925,7 @@ File: ./img/finalDraw1.pdf Graphic file (type pdf)
 )
 \openout5 = `main.mw'.
 
- [43
+ [49
 
 
 
@@ -4237,7 +3949,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-[44] (./main.mw)
+[50] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chapter4.aux'.
@@ -4246,7 +3958,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 فصل 4.
 \openout5 = `main.mw'.
 
-[45
+[51
 
 
 
@@ -4267,126 +3979,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[46] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[47] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[48] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-LaTeX Warning: Citation `montague1999reinforcement' on page 49 undefined on inp
-ut line 198.
-
-
-LaTeX Warning: Citation `gan1' on page 49 undefined on input line 198.
-
-
-Overfull \hbox (2.69118pt too wide) in paragraph at lines 190--213
-[]$\OML/cmm/m/it/12 Q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 )$
- \TU/IRLotusICEE.ttf(1)/bx/n/12 تابع تقریب با پارامتر $\OML/cmm/m/it/12 ^^R$ \T
-U/IRLotusICEE.ttf(1)/bx/n/12 می‌باشد که تقریبی از جدول مقدار عمل با (s،a) می‌با
-شد. هدف این بهینه‌سازی،[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[49] (./main.mw)
-\openout5 = `main.mw'.
-
-File: ./fig/dynamicEpoch_0.eps Graphic file (type eps)
-<./fig/dynamicEpoch_0.eps>
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[50] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-File: ./fig/dynamicEpoch1_0.eps Graphic file (type eps)
-<./fig/dynamicEpoch1_0.eps>
-File: ./fig/admittedService11.eps Graphic file (type eps)
-<./fig/admittedService11.eps>
-File: ./fig/ratio_episode2.eps Graphic file (type eps)
-<./fig/ratio_episode2.eps>
-File: ./fig/consumptionE.eps Graphic file (type eps)
-<./fig/consumptionE.eps>
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.5297pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[51] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
 
 
 
@@ -4415,7 +4007,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [53] (./main.mw)
 \openout5 = `main.mw'.
 
-)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
@@ -4431,31 +4027,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-\openout2 = `./tex/chapter5.aux'.
 
- (./tex/chapter5.tex
-فصل 5.
-\openout5 = `main.mw'.
-
-[55
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
+[55] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+File: ./fig/dynamicEpoch_0.eps Graphic file (type eps)
+<./fig/dynamicEpoch_0.eps>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4472,14 +4060,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+File: ./fig/dynamicEpoch1_0.eps Graphic file (type eps)
+<./fig/dynamicEpoch1_0.eps>
+File: ./fig/admittedService11.eps Graphic file (type eps)
+<./fig/admittedService11.eps>
+File: ./fig/ratio_episode2.eps Graphic file (type eps)
+<./fig/ratio_episode2.eps>
+File: ./fig/consumptionE.eps Graphic file (type eps)
+<./fig/consumptionE.eps>
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4496,7 +4084,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout5 = `main.mw'.
 
-)
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.5297pt.
@@ -4506,6 +4094,114 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \openout5 = `main.mw'.
 
 [58] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[59] (./main.mw)
+\openout5 = `main.mw'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[60] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout2 = `./tex/chapter5.aux'.
+
+ (./tex/chapter5.tex
+فصل 5.
+\openout5 = `main.mw'.
+
+[61
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[62] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[63] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[64] (./main.mw)
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
@@ -4521,13 +4217,12 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/bx/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 2.
 
+LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
-LaTeX Warning: Empty `thebibliography' environment on input line 24.
-
-)
+(Font)              scaled to size 10.95pt on input line 33.
 \openout5 = `main.mw'.
 
- [59
+[65
 
 
 ] (./main.mw)
@@ -4535,6 +4230,39 @@ LaTeX Warning: Empty `thebibliography' environment on input line 24.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [66] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [67] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [68] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [69]
+(./main.mw)
+\openout5 = `main.mw'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.5297pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw'.
+
+[70] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/appendix1.aux'.
@@ -4650,6 +4378,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 \openout5 = `main.mw'.
 
  (./tex/chapter1.aux
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5028,13 +4772,10 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C7FFFBB4A3838BD7F4A3283AAD997CFB.
+(rerunfilecheck)             Checksum: 1F289D88063E02822203655D3B96E26A.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -5059,12 +4800,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44105 strings out of 492970
- 831904 string characters out of 6137298
+ 44207 strings out of 492970
+ 833383 string characters out of 6137298
  1041576 words of memory out of 5000000
- 46947 multiletter control sequences out of 15000+600000
- 542442 words of font info for 128 fonts, out of 8000000 for 9000
+ 47023 multiletter control sequences out of 15000+600000
+ 542458 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  64i,16n,96p,10465b,718s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (83 pages).
+Output written on main.pdf (94 pages).
