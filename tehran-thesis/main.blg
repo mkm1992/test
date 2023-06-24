@@ -15,87 +15,107 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: ./tex/MyReferences.bib
-Repeated entry---line 597 of file ./tex/MyReferences.bib
- : @article{fogComputing
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1289 of file ./tex/MyReferences.bib
- : @online{xran
- :             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1299 of file ./tex/MyReferences.bib
- : @article{ns1
- :             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1421 of file ./tex/MyReferences.bib
- : @article{checko2015cloud
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1747 of file ./tex/MyReferences.bib
- : @article{fogComputing
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1821 of file ./tex/MyReferences.bib
- : @article{fogEdge
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1843 of file ./tex/MyReferences.bib
- : @article{heterogeneous
- :                       ,
-I'm skipping whatever remains of this entry
+Database file #1: tehran-thesis/tex/MyReferences.bib
+Warning--I didn't find a database entry for "etsi"
+Warning--I didn't find a database entry for "checko2015cloud"
+Warning--I didn't find a database entry for "heterogeneous"
+Warning--I didn't find a database entry for "fogComputing"
+Warning--I didn't find a database entry for "vran"
+Warning--I didn't find a database entry for "oranWP"
+Warning--I didn't find a database entry for "NFVArch"
+Warning--I didn't find a database entry for "SDN3"
+Warning--I didn't find a database entry for "NS2"
+Warning--I didn't find a database entry for "lee2018dynamic"
+Warning--I didn't find a database entry for "frdl"
+Warning--I didn't find a database entry for "Gen"
+Warning--I didn't find a database entry for "slawomir20216g"
+Warning--I didn't find a database entry for "fogEdge"
+Warning--I didn't find a database entry for "xran"
+Warning--I didn't find a database entry for "xran1"
+Warning--I didn't find a database entry for "NFV"
+Warning--I didn't find a database entry for "SDN1"
+Warning--I didn't find a database entry for "SDN2"
+Warning--I didn't find a database entry for "gudipati2013softran"
+Warning--I didn't find a database entry for "yu2017hsdran"
+Warning--I didn't find a database entry for "NS1"
+Warning--I didn't find a database entry for "chu1998genetic"
+Warning--I didn't find a database entry for "berkey1987two"
+Warning--I didn't find a database entry for "cranInt"
+Warning--I didn't find a database entry for "larsen2018fronthaul"
+Warning--I didn't find a database entry for "costanzo2018network"
+Warning--I didn't find a database entry for "fran"
+Warning--I didn't find a database entry for "ranSlice"
+Warning--I didn't find a database entry for "ranSlice1"
+Warning--I didn't find a database entry for "ranslice2"
+Warning--I didn't find a database entry for "onet"
+Warning--I didn't find a database entry for "li2019latency"
+Warning--I didn't find a database entry for "vnf1"
+Warning--I didn't find a database entry for "coreSlice"
+Warning--I didn't find a database entry for "luong2018novel"
+Warning--I didn't find a database entry for "luong2018novel1"
+Warning--I didn't find a database entry for "guo2016exploiting"
+Warning--I didn't find a database entry for "oranpaper"
+Warning--I didn't find a database entry for "oranInt"
+Warning--I didn't find a database entry for "c2o"
+Warning--I didn't find a database entry for "sree2019open"
+Warning--I didn't find a database entry for "kawahara2019ran"
+Warning--I didn't find a database entry for "wang2016online"
+Warning--I didn't find a database entry for "jia2018online"
+Warning--I didn't find a database entry for "luo2020online"
+Warning--I didn't find a database entry for "cziva2018dynamic"
+Warning--I didn't find a database entry for "pei2019optimal"
+Warning--I didn't find a database entry for "ren2020joint"
+Warning--I didn't find a database entry for "sciancalepore2017mobile"
+Warning--I didn't find a database entry for "wang2017joint"
+Warning--I didn't find a database entry for "de2020optimal"
+Warning--I didn't find a database entry for "gan1"
+Warning--I didn't find a database entry for "gan2"
+Warning--I didn't find a database entry for "li2020end"
+Warning--I didn't find a database entry for "montague1999reinforcement"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Too many commas in name 1 of "Chih-Lin I, Sachin Katti, Claudio Coletti, William Diego, Ran Duan, Saeed Ghassemzadeh" for entry oranWP
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Chih-Lin I, Sachin Katti, Claudio Coletti, William Diego, Ran Duan, Saeed Ghassemzadeh" for entry oranWP
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Chih-Lin I, Sachin Katti, Claudio Coletti, William Diego, Ran Duan, Saeed Ghassemzadeh" for entry oranWP
-while executing---line 2403 of file IEEEtran.bst
-Warning--empty journal in kawahara2019ran
-Warning--empty journal in cziva2018dynamic
 
 Done.
-You've used 61 entries,
+You've used 0 entries,
             4087 wiz_defined-function locations,
-            1155 strings with 18682 characters,
-and the built_in function-call counts, 48671 in all, are:
-= -- 3983
-> -- 1240
-< -- 451
-+ -- 687
-- -- 223
-* -- 2358
-:= -- 7175
-add.period$ -- 125
-call.type$ -- 61
-change.case$ -- 61
-chr.to.int$ -- 1014
-cite$ -- 63
-duplicate$ -- 3441
-empty$ -- 3662
-format.name$ -- 264
-if$ -- 11329
+            901 strings with 8111 characters,
+and the built_in function-call counts, 104 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 19
+:= -- 27
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 3
 int.to.chr$ -- 0
-int.to.str$ -- 61
-missing$ -- 602
-newline$ -- 218
-num.names$ -- 56
-pop$ -- 1367
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 23
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 3727
+skip$ -- 1
 stack$ -- 0
-substring$ -- 2463
-swap$ -- 2936
-text.length$ -- 113
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 61
-warning$ -- 2
-while$ -- 230
-width$ -- 63
-write$ -- 627
-(There were 10 error messages)
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 22
+(There were 56 warnings)
