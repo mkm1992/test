@@ -16,6 +16,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ./tex/MyReferences.bib
+Repeated entry---line 291 of file ./tex/MyReferences.bib
+ : @article{aisecme
+ :                 ,
+I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -23,45 +27,45 @@ Warning--empty journal in kawahara2019ran
 Warning--empty journal in cziva2018dynamic
 
 Done.
-You've used 61 entries,
+You've used 69 entries,
             4087 wiz_defined-function locations,
-            1153 strings with 18254 characters,
-and the built_in function-call counts, 47019 in all, are:
-= -- 3850
-> -- 1196
-< -- 422
-+ -- 657
-- -- 219
-* -- 2267
-:= -- 7008
-add.period$ -- 123
-call.type$ -- 61
-change.case$ -- 61
-chr.to.int$ -- 942
-cite$ -- 63
-duplicate$ -- 3359
-empty$ -- 3545
-format.name$ -- 257
-if$ -- 10917
+            1185 strings with 19943 characters,
+and the built_in function-call counts, 54240 in all, are:
+= -- 4393
+> -- 1401
+< -- 485
++ -- 779
+- -- 267
+* -- 2624
+:= -- 7985
+add.period$ -- 141
+call.type$ -- 69
+change.case$ -- 69
+chr.to.int$ -- 1107
+cite$ -- 71
+duplicate$ -- 3865
+empty$ -- 4139
+format.name$ -- 301
+if$ -- 12622
 int.to.chr$ -- 0
-int.to.str$ -- 61
-missing$ -- 589
-newline$ -- 218
-num.names$ -- 56
-pop$ -- 1337
+int.to.str$ -- 69
+missing$ -- 675
+newline$ -- 242
+num.names$ -- 64
+pop$ -- 1554
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 3598
+skip$ -- 4118
 stack$ -- 0
-substring$ -- 2295
-swap$ -- 2836
-text.length$ -- 108
+substring$ -- 2721
+swap$ -- 3271
+text.length$ -- 116
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 61
+type$ -- 69
 warning$ -- 2
-while$ -- 218
-width$ -- 63
-write$ -- 622
-(There were 2 warnings)
+while$ -- 248
+width$ -- 71
+write$ -- 694
+(There was 1 error message)

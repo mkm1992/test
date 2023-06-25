@@ -163,15 +163,17 @@ H.~Zhang, N.~Liu, X.~Chu, K.~Long, A.-H. Aghvami, and V.~C. Leung, ``Network
   and challenges,'' \emph{IEEE communications magazine}, vol.~55, no.~8, pp.
   138--145, 2017.
 
-\bibitem{chu1998genetic}
-P.~C. Chu and J.~E. Beasley, ``A genetic algorithm for the multidimensional
-  knapsack problem,'' \emph{Journal of heuristics}, vol.~4, no.~1, pp. 63--86,
-  1998.
+\bibitem{feng2020dynamic}
+L.~Feng, Y.~Zi, W.~Li, F.~Zhou, P.~Yu, and M.~Kadoch, ``Dynamic resource
+  allocation with ran slicing and scheduling for urllc and embb hybrid
+  services,'' \emph{IEEE Access}, vol.~8, pp. 34\,538--34\,551, Feb. 2020.
 
-\bibitem{berkey1987two}
-J.~O. Berkey and P.~Y. Wang, ``Two-dimensional finite bin-packing algorithms,''
-  \emph{Journal of the operational research society}, vol.~38, no.~5, pp.
-  423--429, 1987.
+\bibitem{lee2016new}
+Y.~L. Lee, J.~Loo, and T.~C. Chuah, ``A new network slicing framework for
+  multi-tenant heterogeneous cloud radio access networks,'' in \emph{2016
+  International Conference on Advances in Electrical, Electronic and Systems
+  Engineering (ICAEES)}.\hskip 1em plus 0.5em minus 0.4em\relax Putrajaya,
+  Malaysia: IEEE, Nov. 2016, pp. 414--420.
 
 \bibitem{cranInt}
 M.~Peng, Y.~Li, Z.~Zhao, and C.~Wang, ``System architecture and key
@@ -245,6 +247,36 @@ P.~Luong, F.~Gagnon, C.~Despins, and L.-N. Tran, ``Joint virtual computing and
 K.~Guo, M.~Sheng, J.~Tang, T.~Q. Quek, and Z.~Qiu, ``Exploiting hybrid
   clustering and computation provisioning for green c-ran,'' \emph{IEEE Journal
   on Selected Areas in Communications}, vol.~34, no.~12, pp. 4063--4076, 2016.
+
+\bibitem{setayesh2020joint}
+M.~Setayesh, S.~Bahrami, and V.~W. Wong, ``Joint prb and power allocation for
+  slicing embb and urllc services in 5g c-ran,'' in \emph{IEEE Global
+  Communications Conference (GLOBECOM 2020)}, Taipei, Taiwan, Dec. 2020, pp.
+  1--6.
+
+\bibitem{yang2020should}
+P.~Yang, X.~Xi, T.~Q. Quek, J.~Chen, X.~Cao, and D.~Wu, ``How should i
+  orchestrate resources of my slices for bursty urllc service provision?''
+  \emph{IEEE Transactions on Communications}, vol.~69, no.~2, pp. 1134--1146,
+  Nov. 2020.
+
+\bibitem{saggese2021power}
+F.~Saggese, M.~Moretti, and P.~Popovski, ``Power minimization of downlink
+  spectrum slicing for embb and urllc users,'' \emph{arXiv preprint
+  arXiv:2106.08847}, Jun. 2021.
+
+\bibitem{alsenwi2021intelligent}
+M.~Alsenwi, N.~H. Tran, M.~Bennis, S.~R. Pandey, A.~K. Bairagi, and C.~S. Hong,
+  ``Intelligent resource slicing for embb and urllc coexistence in 5g and
+  beyond: A deep reinforcement learning based approach,'' \emph{IEEE
+  Transactions on Wireless Communications}, vol.~20, no.~7, pp. 4585 -- 4600,
+  Feb. 2021.
+
+\bibitem{korrai2020ran}
+P.~Korrai, E.~Lagunas, S.~K. Sharma, S.~Chatzinotas, A.~Bandi, and
+  B.~Ottersten, ``A ran resource slicing mechanism for multiplexing of embb and
+  urllc services in ofdma based 5g wireless networks,'' \emph{IEEE Access},
+  vol.~8, pp. 45\,674--45\,688, Mar. 2020.
 
 \bibitem{oranpaper}
 \BIBentryALTinterwordspacing
@@ -333,6 +365,21 @@ Y.~Hua, R.~Li, Z.~Zhao, H.~Zhang, and X.~Chen, ``Gan-based deep distributional
 T.~Li, X.~Zhu, and X.~Liu, ``An end-to-end network slicing algorithm based on
   deep q-learning for 5g network,'' \emph{IEEE Access}, vol.~8, pp.
   122\,229--122\,240, 2020.
+
+\bibitem{sengupta2019mtdeep}
+S.~Sengupta \emph{et~al.}, ``Mtdeep: Boosting the security of deep neural nets
+  against adversarial attacks with moving target defense,'' in \emph{Decision
+  and Game Theory for Security, Springer-Verlag}, 2019, pp. 479 --491.
+
+\bibitem{rashid2022mtd}
+A.~Rashid and J.~M. Such, ``Stratdef:a strategic defense against adversarial
+  attacks in malware detection,'' \emph{ArXiv}, 2022.
+
+\bibitem{qiu2021mt}
+Y.~Qiu, J.~Wu \emph{et~al.}, ``Mt-mtd: Muti-training based moving target
+  defense trojaning attack in edged-ai network,'' in \emph{ICC-IEEE
+  International Conference on Communications}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2021, pp. 1--6.
 
 \bibitem{montague1999reinforcement}
 P.~R. Montague, ``Reinforcement learning: an introduction, by sutton, rs and
