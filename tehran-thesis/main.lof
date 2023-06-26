@@ -19,11 +19,11 @@
 \contentsline {figure}{\numberline {2.3}{\ignorespaces یادگیری تقویتی\relax }}{45}{figure.caption.23}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces سناریوی ارسال لینک بالا و پایین در برشهای شبکه \relax }}{46}{figure.caption.24}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Network sliced O-RAN system\relax }}{49}{figure.caption.25}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces برش شبکه در سیستم O-RAN\relax }}{49}{figure.caption.25}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces نسبت تعداد سرویسهای پذیرفته شده با استفاده از روش یادگیری تقویتی عمیق به نسبت تعداد سرویسهای پذیرفته شده در حالت بهینه براساس زمان طی شده\relax }}{56}{figure.caption.26}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces نسبت تعداد سرویسهای پذیرفته شده روش استفاده شده به نسبت تعداد سرویسهای پذیرفته شده در حالت بهینه براساس زمان طی شده با افزایش تعداد ماکسیمم درخواستها و تعداد برشهای شبکه\relax }}{57}{figure.caption.27}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces میانگین تعداد سرویسهای پذیرفته شده در زمان در دو حالت بهینه و استفاده از الگوریتم تقویتی با افزایش تعداد برشهای شبکه\relax }}{57}{figure.caption.28}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces نسبت تعداد سرورهای مصرفی با روش بهینه به سرورهای مصرفی با استفاده از روش یادگیری تقویتی براساس زمان طی شده\relax }}{58}{figure.caption.29}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces نسبت مقدار هزینه‌ی مصرفی نرمالیزه شده به تعداد میانگین برشهای مورد نیاز در جالت بهینه و الگوریتم یادگیری تقویتی \relax }}{59}{figure.caption.30}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نسبت تعداد سرویسهای پذیرفته شده با استفاده از روش یادگیری تقویتی عمیق به نسبت تعداد سرویسهای پذیرفته شده در حالت بهینه براساس زمان طی شده\relax }}{57}{figure.caption.26}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نسبت تعداد سرویسهای پذیرفته شده روش استفاده شده به نسبت تعداد سرویسهای پذیرفته شده در حالت بهینه براساس زمان طی شده با افزایش تعداد ماکسیمم درخواستها و تعداد برشهای شبکه\relax }}{58}{figure.caption.27}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces میانگین تعداد سرویسهای پذیرفته شده در زمان در دو حالت بهینه و استفاده از الگوریتم تقویتی با افزایش تعداد برشهای شبکه\relax }}{58}{figure.caption.28}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces نسبت تعداد سرورهای مصرفی با روش بهینه به سرورهای مصرفی با استفاده از روش یادگیری تقویتی براساس زمان طی شده\relax }}{59}{figure.caption.29}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces نسبت مقدار هزینه‌ی مصرفی نرمالیزه شده به تعداد میانگین برشهای مورد نیاز در جالت بهینه و الگوریتم یادگیری تقویتی \relax }}{60}{figure.caption.30}
 \addvspace {10\p@ }
